@@ -41,8 +41,6 @@ Site de vendas de imóveis feito em Python - Django.
 <img src="(https://user-images.githubusercontent.com/61359076/151681624-2424c50d-cbb9-490d-bb31-3ae8793e994d.jpg)" width="200px" />
 </div>
 <br>
-<br>
-
 
 
 ![5](https://user-images.githubusercontent.com/61359076/151681626-ff6a85da-a884-4b87-923c-8010305d53e7.jpg)
