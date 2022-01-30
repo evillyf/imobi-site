@@ -67,8 +67,8 @@ class Visitas(models.Model):
     choices_status = (('A', 'Agendado'),
                       ('F', 'Finalizado'),
                       ('C', 'Cancelado'))
-    imovel = models.ForeignKey(Imovei, on_delete=models.DO_NOTHING)
-    usuario = models.ForeignKey(User, on_delete=models.DO_NOTHING)
+    imovel = models.ForeignKey(Imovei, on_delete=models.CASCADE)
+    usuario = models.ForeignKey(User, on_delete=models.CASCADE)
     dia = models.CharField(max_length=20)
     horario = models.TimeField()
     status = models.CharField(max_length=1, choices=choices_status, default="A")
