@@ -1,3 +1,143 @@
+<div align = "center">
+<h1>:rocket: Semana Pythonando :rocket:</h1>
+<h3>Imobi - Site de vendas de imóveis  </h3>
+  <hr>
+  
+
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white)
+<br>
+<br>
+
+
+  
+</div>
+
+# :bulb: Links para Documentação
+
+1. Sobre 
+2. Demonstração Web
+3. Demonstração Mobile
+4. Endeço de publicação
+5. tecnologias utilizadas
+  
+
+
+:books: SOBRE
+<br>
+
+<p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de conviver com diferentes Devs de ecossistemas diferentes.</p>
+
+O  principal requisito funcional que foi solicitado no evento foi "o usuario pedir o produto na web, e o entregador receber o pedido via aplicativo mobile." O exemplo dessa funcionalidade no ambiente de testes esta em demonstração nesse README.md. Alẽm disso, vou disponibilizar o diagrama conceitual mais outras informações relevantes que usamos para implementar o DS Delivery.
+
+# :computer: Demonstração Web
+
+<h1>
+<img src="media/video.gif">
+</h1>
+
+# :loudspeaker: Publicação do projeto DS Delivey
+
+- https://andreluiz-dslivery.netlify.app
+
+
+# Execute no seu computador
+
+### Algum dos comandos abaixos apenas funcionará no Power Shell (Windows) ou terminal linux.
+
+
+#### Abra o terminal e execute o codigo abaixo:
+
+```git 
+
+git clone https://github.com/andrelDuarte/dsdeliver-sds2.git 
+
+```
+
+#### Em seguida, rode o próximo comando dentro da pasta frontend-web:
+
+```
+yarn
+
+```
+
+
+
+## :zap: TECHNOLOGIES
+
+
+### | Backend | 
+
+* Java 
+* Spring boot 
+* H2 database  
+* PostgreSQL 
+* Heroku 
+* Postman
+
+<br>
+
+### | Frontend | 
+* HTML5 + CSS3 
+* Javascript 
+* ReactJS 
+* React-Native 
+* Typescript 
+* API Mapbox 
+* Netlify
+
+Projeto criado por mim (André Luiz Duarte Cruz) com amor e :heart: Java Spring e React :heart:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 <h/3>
 
