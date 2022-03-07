@@ -50,7 +50,7 @@ O  principal requisito funcional que foi solicitado no evento foi "o usuário po
 <br>
 
 
-## :computer: DEMONSTRAÇÃO MOBILE
+## 📱: DEMONSTRAÇÃO MOBILE
 
 
 
