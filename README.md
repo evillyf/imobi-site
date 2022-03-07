@@ -32,7 +32,7 @@
 :books: SOBRE
 <br>
 
-<p align="justify">O projeto foi desenvolvido durante a Pystack Week 2.0. Consiste em uma plataforma para agendar visitar a imóveis de várias regiões. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de conviver com diferentes Devs de ecossistemas diferentes.</p>
+<p align="justify">O projeto foi desenvolvido durante a Pystack Week 2.0. Consiste em uma plataforma para agendar visitar a imóveis de várias regiões. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de aprender com diferentes Devs.</p>
 
 O  principal requisito funcional que foi solicitado no evento foi "o usuário poder agendar ou cancelar uma visita, ou a mesma ser finalizada". O exemplo dessa funcionalidade está em demonstração nesse README.md. Além disso, vou disponibilizar o diagrama conceitual e outras informações relevantes que usamos para implementar o site Imobi.
 <br>
