@@ -40,7 +40,12 @@
 
 ## :computer: DEMONSTRAÇÃO WEB
 
-
+![screen-capture](https://user-images.githubusercontent.com/61359076/157124846-1dd7ce8f-8450-4c83-b308-987d84bc26cb.gif)
+<div align="center">
+<img src="(https://user-images.githubusercontent.com/61359076/157124846-1dd7ce8f-8450-4c83-b308-987d84bc26cb.gif)" width="200px" />
+</div>
+<br>
+<br>
 
 
 
@@ -50,7 +55,12 @@
 
 ## 📱: DEMONSTRAÇÃO MOBILE
 
-
+https://user-images.githubusercontent.com/61359076/157129355-4ff782fe-146a-4197-90d4-187693ea83ee.mp4
+<div align="center">
+<video src="(https://user-images.githubusercontent.com/61359076/157129355-4ff782fe-146a-4197-90d4-187693ea83ee.mp4)" width="200px" />
+</div>
+<br>
+<br>
 
 
 
